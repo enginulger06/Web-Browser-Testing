@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icon/Explorer.ico</file>
+    <file>icon/Firefox.ico</file>
+    <file>icon/Opera.ico</file>
+    <file>icon/Chrome.ico</file>
+  </qresource>
+</RCC>
